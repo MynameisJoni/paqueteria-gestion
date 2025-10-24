@@ -26,6 +26,6 @@ public class Vehiculo {
     @Column(name = "Tipo", length = 30)
     private String tipo;
 
-    @Column(name = "Peso")
-    private int peso;
+    @Column(name = "Potencia")
+    private int Potencia;
 }

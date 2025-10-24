@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/conductores")
+@RequestMapping("/api/conductores")
 public class ConductorController {
 
     @Autowired
