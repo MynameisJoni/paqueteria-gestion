@@ -27,5 +27,5 @@ public class Vehiculo {
     private String tipo;
 
     @Column(name = "Potencia")
-    private int Potencia;
+    private int potencia;
 }
